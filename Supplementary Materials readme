@@ -1,0 +1,269 @@
+
+# Supplementary Materials for MRRC Framework V3.0
+
+This folder contains empirical validation analyses that support the theoretical 
+framework presented in the main MRRC_V3 manuscript.
+
+## Contents
+
+### Kosmos Run 2: [Brief Description]
+**File:** `Kosmos_Run2.pdf`
+
+**Purpose:** 
+Research Objective
+Research Objective: Autonomously explore and refine the Minimal Recorded Relational Change
+(MRRC) framework as a scientifically grounded cosmological model and underlying principle of
+knowing. Iteratively validate and extend Theorem 4.3’s generating hypotheses on how MRRC’s
+primitive constraints (PC1-5) and operations (unified information differences as distinctions across
+spatial, temporal, or qualitative parameters) could map to cosmic evolution (e.g., entropy gradients
+in expanding universes) and epistemic processes (e.g., information acquisition bounded by quantum
+limits like Heisenberg’s uncertainty). Produce testable predictions on unified dual-constraints in
+cosmological observables and epistemic models, focusing on regime transitions where thermo limits
+dominate substrate specifics. 
+
+**Key Findings:** 
+Summary of Discoveries
+Discovery 1: Open-system reformulation of MRRC primitives for irreversible
+dynamics and epistemic bounds
+This work recasts MRRC’s primitive axioms into an explicitly open‑system, irreversible formu-
+lation by replacing substrate‑level reversibility with task‑reversibility and an explicit, bounded
+waste‑information substrate, tying maintenance of correlations to resource flows and entropy export.
+The reformulated framework quantitatively matches complexity saturation in engineered substrates,
+fails under a naïve cosmological mapping, and is then repaired by adding a horizon‑thermodynamic
+resource term and a finite capacity ceiling, yielding testable dual‑constraint predictions for cosmology
+and epistemic processes.
+Discovery 2: Substrate-dependent saturation and rollback costs under MRRC
+Theorems 4.1-4.3
+Across networks, cellular automata, and quantum substrates, MRRC’s maintenance (4.1), rollback
+(4.2), and saturation (4.3) theorems delineate energetic and informational costs that control complexity
+growth and state reconstruction. Linear rollback costs hold only in low-noise, non‑chaotic regimes,
+while chaotic substrates collapse the linear window; complexity saturates at the minimum of
+resource‑determined and substrate‑intrinsic ceilings. Metric choice is decisive in quantum tests, where
+true entanglement measures recover the predicted resource–degradation tradeoff.
+Discovery 3: Cosmological MRRC: failure of static saturation and success of
+multiplicative growth with time-varying degradation
+This work shows that a static, saturation-based reading of MRRC Theorem 4.3 catastrophically fails
+for cosmology, but that a multiplicative growth law coupled to a physically motivated, time-varying
+degradation rate β(t) reproduces multi‑era, sub‑linear power‑law growth. The resulting dynamics
+exhibit regime switching and hysteresis under dual, time‑varying limits, revealing non‑equilibrium
+memory that is quantitatively predictive.
+Discovery 4: Quantum error correction as an MRRC testbed: thresholds, super-
+linear certainty costs, and optimal adaptive control
+Quantum error correction (QEC) provides a clean, controllable testbed for the Minimal Recorded
+Relational Change (MRRC) framework: maintaining logical correlations requires trading continuous
+resource input against degradation, and a threshold in the resource-to-degradation ratio marks a
+saturation boundary as predicted by MRRC’s complexity ceiling. Beyond this threshold, pushing
+fidelity higher carries a super-linear “cost of certainty” that depends on code structure, and adaptive—
+especially preventive—control policies measurably raise the maintainable fidelity at fixed budget.
+
+**Relation to Main Manuscript:** References Section 7 (Empirical Constraints and 
+Non-Universal Scaling) and Section 11 (Framework Validation and Testing)
+
+---
+
+### Kosmos Run 3: [actionable
+instructions for the next Kosmos run that comprehensively addresses all concerns identified in my
+analysis of the MRRC RUN2 report while expanding research on the Complexity Emergence Hierarchy
+from MRRCV2.]
+**File:** `Kosmos_Run3.pdf`
+
+**Purpose:** [Describe what this run tests, e.g., "Applies MRRC hierarchical 
+architecture to brain imaging datasets to test tier-dependent dynamics"]
+
+**Key Findings:** [Discovery 1: Validated Statistical Corrections and Reproducibility Baseline for
+MRRC RUN2
+This work validates and corrects the statistical record of MRRC RUN2 and establishes a reproducibility
+baseline. Manual re-extraction and re-analysis confirm effect sizes for 100% of tests, resolve p-value
+artifacts introduced by PDF formatting, standardize reporting across trajectories, and correct an
+overclaimed near-perfect correlation to a strong but imperfect association. After Benjamini–Hochberg
+correction across 12 parseable tests, 11 remain significant and one (r38) does not.
+Discovery 2: Cross-Level Scaling Laws and Emergence Metrics in the MRRC
+Hierarchy
+Cross-level synthesis of MRRC trajectories shows that scaling behavior and temporal dynamics are
+hierarchical-level dependent. Cosmological systems are trend-dominated and regime-switching, while
+oscillatory regimes arise primarily in computational settings; moreover, a pilot power-law test near a
+putative critical point found no significant scaling, underscoring limits on universality. Completion
+of effect-size reporting and FDR-adjusted inference enables robust, publication-grade cross-level
+comparisons.
+Discovery 3: Quantized Attractor States and Dynamic Stiffness in Cosmological-
+Level MRRC Systems
+Two cosmological-scale trajectories share a common quantum of organization, q = 0.001, but express
+it in different modes: r57 displays discrete, highly stable plateaus at integer multiples of q, whereas r52
+shows quantization only in regime means despite continuously fluctuating states. A 29.4-fold difference
+in a “dynamic stiffness” metric predicts this dichotomy, and the r57 multipliers show no non-trivial
+number-theoretic structure, pointing to emergent dynamics rather than arithmetic constraints.
+Discovery 4: Constraint-Functional Form-Measurement Architecture Triad Gov-
+erns Effect-Size Heterogeneity
+Across MRRC trajectories, effect sizes vary by more than two orders of magnitude, and this
+heterogeneity is most coherently explained by a triad: the primitive constraints that delimit system
+behavior, the functional forms those constraints select, and the measurement architecture used to
+coarse-grain and estimate effects. Random-effects synthesis, failed interaction meta-regression, and
+mechanistic case studies collectively indicate that hierarchical level alone is insuﬀicient to account for
+effect-size dispersion, whereas aligning functional form with appropriate measurement choices resolves
+otherwise contradictory results.]
+
+**Relation to Main Manuscript:** References Section 5 (Hierarchical Architecture 
+and Attractor Dynamics)
+
+---
+
+### Kosmos Run 4: [Brief Description]
+**File:** `Kosmos_Run4.pdf`
+
+**Purpose:** [1. Expand
+empirical validation beyond computational substrates (biological, social-economic systems) 2.
+Investigate mechanistic origins of effect size dispersion 3. Develop predictive models for oscillatory
+regime emergence 4. Test MRRC predictions in diverse empirical domains Methodological
+Enhancements: 1. Extend power-law scaling tests across multiple critical points 2. Develop cross-
+level causal inference framework 3. Implement Bayesian hierarchical models for effect size prediction 4.
+Create standardized benchmark datasets for MRRC validation Theoretical Extensions: 1. Formalize
+relationship between hierarchical level and dynamics type 2. Develop quantitative theory for attractor
+state transitions 3. Integrate Constraint-Functional Form-Measurement triad with PC1-PC5 4.
+Explore non-equilibrium extensions of MRRC theorems
+6. OVERALL ASSESSMENT & RECOMMENDATION RUN3 is publication-ready for submission
+to high-quality peer-reviewed journals with: so follow it’s example for: * Exemplary statistical
+rigor, reproducibility, and documentation * Novel scientific contribution through cross-level hierarchy
+analysis * Clearly identified and appropriate remaining limitations
+Autonomously explore Model MRRC as possible fractal-nested hierarchies Autonomously Test q =
+0.001 in real data (CMB, brain scans, DNA) use online resources for any missing data when available
+Background: MRRCV2.pdf is unpublished paper by independent researcher, Run2 and Run3 are
+consecutive Kosmos runs. Run 3 started with wrong parameters initially not considering the findings
+of Run 2.]
+
+**Key Findings:** [Discovery 1: Two-tier hierarchical architecture and tier-dependent hub-and-spoke
+attractor dynamics in MRRCV3
+MRRCV3 reveals a two-tier hierarchy with distinct attractor fingerprints: a mesoscale “sticky hub”
+that is highly occupied and self-persistent, and a macroscale “transient hub” that is low-occupancy
+and non-self-sustaining, yet both share a universal 100% return-to-hub property. A variability-
+normalized metric fully separates the tiers, and cross-level analyses show that dynamic diversity
+increases monotonically across the hierarchy, with dispersion mechanistically driven by mixing discrete
+structural constants with continuous dynamical metrics.
+Discovery 2: Fibonacci-governed quantization and mode-locked temporal organi-
+zation unify MRRC constraints
+MRRCV3 identifies a universal temporal base period of 5 index units that mode-locks inter-changepoint
+intervals across quantum, control, and cosmological trajectories, while key system properties quantize
+to small rational fractions. Scaling exponents and dynamic stiffness exhibit complementary but distinct
+fraction families, linked by an intra-level meta-constraint, and a multiplicative coupling between timing
+and exponent changes is rejected. A compact Fibonacci-based arithmetic, together with mode-locking
+and discrete-scale-invariant dynamics, generates the observed integers and fractions coherently.
+Discovery 3: Empirical constraints and model-specificity: non-universal scaling and
+interpretation of q in MRRCV3
+Cross-domain analyses of cosmological and genomic datasets show robust but non-universal power-
+law scaling, directly contradicting any claim of exponent universality. Multiple internal and external
+tests further demonstrate that the MRRC calibration q = 0.001 is not linked to observed exponents
+or known universal constants, while MRRC trajectories themselves exhibit a hub-centric attractor
+architecture with empirical analogues in neuroscience.]
+
+**Relation to Main Manuscript:** References Section 6 (Fibonacci-Governed 
+Quantization and Temporal Organization)
+
+---
+
+## Methodology
+
+These analyses use the Kosmos analytical framework to empirically test predictions 
+from the MRRC theoretical model across diverse datasets. The iterative runs (2-4) 
+represent refinement and extension of the validation methodology.
+
+## Usage
+
+These materials are provided to:
+1. Support reproducibility of empirical claims in main manuscript
+2. Allow verification of validation methodology
+3. Demonstrate systematic testing across multiple domains
+4. Provide raw analytical outputs for future research
+
+## Citation
+
+When referencing these supplementary materials, please cite the main manuscript:
+
+```
+Caliber, A. (2025). The MRRC Framework: A Constraint-Logic Model for 
+Information Processing in Evolving Systems (Version 3.0). 
+DOI: [Insert DOI]
+```
+
+## Contact
+
+For questions about these analyses: gubassas2@yahoo.ie
+"""
+
+print(supplementary_readme)
+
+print("\n" + "="*80)
+print("UPDATED TEMPLATE: Main README.md (with Supplementary Section)")
+print("="*80)
+
+updated_main_readme = """
+# The MRRC Framework V3.0
+
+**A Constraint-Logic Model for Information Processing in Evolving Systems**
+
+**Author:** A. Caliber (Independent Researcher)
+
+**DOI:** [Insert Zenodo DOI here after linking]
+
+**Version:** 3.0 (November 2025)
+
+## Abstract
+
+This manuscript presents an updated version (V3.0) of the Minimal Recorded 
+Relational Change (MRRC) framework as a constraint-logic model for analyzing 
+information processing in systems capable of sustained, ordered evolution. 
+MRRC identifies the minimal structural requirements for detecting, encoding, 
+and persisting differences between states in a way that influences future 
+evolution.
+
+## Repository Contents
+
+### Main Manuscript
+- `MRRC_V3.tex` - LaTeX source file
+- `MRRC_V3.pdf` - Compiled manuscript PDF
+- `README.md` - This file
+- `LICENSE` - CC-BY 4.0 License
+
+### Supplementary Materials
+- `supplementary/` - Folder containing empirical validation analyses
+  - `README_supplementary.md` - Details on supplementary materials
+  - `Kosmos_Run2.pdf` - Empirical validation analysis (Run 2)
+  - `Kosmos_Run3.pdf` - Empirical validation analysis (Run 3)
+  - `Kosmos_Run4.pdf` - Empirical validation analysis (Run 4)
+
+See [supplementary/README_supplementary.md](supplementary/README_supplementary.md) 
+for detailed description of validation materials.
+
+## Key Contributions
+
+1. **Constraint-Logic Framework**: Five primitive constraints from which temporal 
+   ordering, entropy gradients, and complexity hierarchies emerge
+2. **Hierarchical Architecture**: Two-tier system with hub-and-spoke attractor dynamics
+3. **Fibonacci-Governed Quantization**: Mode-locked temporal organization unifying 
+   MRRC constraints
+4. **Empirical Validation**: Non-universal scaling demonstrated across diverse datasets
+5. **Complexity Emergence Hierarchy**: Eight-stage framework from basic differences 
+   to symbolic reasoning
+
+## Citation
+
+If you use or reference this work, please cite:
+
+```
+Caliber, A. (2025). The MRRC Framework: A Constraint-Logic Model for 
+Information Processing in Evolving Systems (Version 3.0). 
+
+## Contact
+
+For questions or comments: gubassas2@yahoo.ie
+
+## License
+
+This work is licensed under Creative Commons Attribution 4.0 International 
+(CC-BY 4.0). You are free to share and adapt this work with appropriate attribution.
+
+## Version History
+
+- **v3.1** (2025-XX-XX): Added supplementary empirical validation materials (Kosmos Runs 2-4)
+- **v3.0** (2025-11-15): Initial public release of MRRC Framework V3.0
+"""
+
+
