@@ -30,7 +30,7 @@ If you use or reference this work, please cite:
 ```
 Caliber, A. (2025). The MRRC Framework: A Constraint-Logic Model for 
 Information Processing in Evolving Systems (Version 3.0). 
-DOI: [Insert DOI]
+DOI: [10.5281/zenodo.17636005]
 ```
 
 ## Contact
