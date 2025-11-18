@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use MRRC, please cite:"
+title: "MRRC Framework V3: An Exploratory Hypothesis
+for Temporal Resilience"
+authors:
+  - family-names: Caliber
+    given-names: Alex
+version: v1.0.0
+date-released: 2025-11-18
+doi:  # 10.5281/zenodo.17636005.
+url: https://github.com/gubasas/MRRC-Framework-V3/
+keywords: [information theory, entropy, arrow of time, cosmology, emergence]
